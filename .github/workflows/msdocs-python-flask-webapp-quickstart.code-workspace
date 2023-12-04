@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "msdocs-python-flask-webapp-quickstart",
+			"path": "../.."
+		},
+		{
+			"name": "iac",
+			"path": "../../../iac"
+		}
+	],
+	"settings": {}
+}
